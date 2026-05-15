@@ -1,4 +1,4 @@
-# 
+# Enhance your Polymarket trading with smart Polymarket Plugin | trailing-stops + sentiment-analysis, the #1 plugin. Includes trailing-stops and sentiment-analysis for a smoother
 
 
 
